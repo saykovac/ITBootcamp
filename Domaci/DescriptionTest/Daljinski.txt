@@ -1,0 +1,37 @@
+﻿Opišite daljinski upravljač za TV.
+
+
+	Daljinski upravljac je od plastike, crne boje i pravougaonog oblika.
+	Svi dugmici su gumeni, crne boje sa odstampanim brojem ili znakom bele boje.
+	U levom gornjem uglu nalazi se dugme koje na sebi ima znak za mute.
+	U desnom gornjem uglu nalazi se dugme za ukljucivanje i iskljucivanje i ono je jedino crvene boje.
+	Ispod njih nalazi se deo sa deset dugmica.
+	Po tri u prva tri reda i sa jednim u poslednjem redu ispod srednjeg u trecem redu. 
+	U tom delu u prvom redu po redosledu od levog ka desnom ispisani su na prvom br "1" na dr dugmetu "2" i na trecem "3".
+	U sledecem redu po istom redosledu ispisani su na prvom br "4" na dr dugmetu "5" i na trecem "6".
+	U narednom redu po istom redosledu ispisani su na prvom br "7" na dr dugmetu "8" i na trecem "9".
+	U poslednjem redu tog dela ispod dugmeta "8" nalazi se dugme na kome je ispisano "0".
+	To je sve od dugmica.
+	Ton se pojacava tako sto se daljinski, dok se drzi u ruci, podize uvis, a ton se stisava tako sto se daljinski spusta.
+	Kanali se prebacuju unapred tako sto se , dok se takodje daljinski drzi u ruci, pomeri ka TV.
+	Kanali se prebacuju unazad tako sto se , dok se takodje daljinski drzi u ruci, pomeri ka onome ko drzi daljinski.
+
+
+Kako biste testirali daljinski upravljač?
+
+
+	Sagledali bi da li je daljinski od plastike , crne boje i odgovarajuceg pravaougaonog oblika.
+	Proverili da li su svi dugmici crne boje sa belim odstampanim zankom na sebi.
+	Proverili bi da li se u levom gornjem uglu nalazi se dugme koje na sebi ima znak za mute i stiskali dugme da proverimo da li obavlja tu funkciju.
+	Videli bi da li se u desnom gornjem uglu nalazi dugme za ukljucivanje i iskljucivanje i da li je crvene boje.
+	Probali bi da ukljucimo i iskljucimo TV naizmenicnim stiskanjem dugmeta.
+	Sledece bi proverili da li postoji deo sa deset dugmica gde su po tri u prva tri reda i sa jednim u poslednjem redu ispod srednjeg u trecem redu.
+	Videli bi da li su u prvom redu tog dela u po redosledu od levog ka desnom ispisani su redno na prvom br "1" na dr dugmetu "2" i na trecem "3".
+	Videli bi da li su u sledecem redu tog dela u istom redosledu ispisani su redno na prvom br "4" na dr dugmetu "5" i na trecem "6".
+	Videli bi da li su u narednom redu tog dela u istom redosledu ispisani su redno na prvom br "7" na dr dugmetu "8" i na trecem "9".
+	Proverili bi da li se u poslednjem redu tog dela ispod dugmeta "8" nalazi dugme na kome je ispisano "0".
+	Svako dugme bi stiskali i proverili da li obavlja za to predvidjenu radnju.
+	Prilikom drzanja daljinskog u ruci podizali bi daljinski uvis da proverimo da li se ton pojacava.
+	Prilikom drzanja daljinskog u ruci spustali bi daljinski da proverimo da li se ton smanjuje.
+	Proverili bi da li se kanali prebacuju unapred tako sto bi pomerali daljinski ka TV.
+	Proverili bi da li se kanali prebacuju unazad tako sto bi pomerali daljinski od TV ka sebi.
